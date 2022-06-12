@@ -10,7 +10,9 @@
   
   ### Completed Projects:
   ---
-  *Mealeauxdy![https://github.com/troymathis/meleauxdy], a music search engine that displays info on any artist along with detailed information on albums, extended playlists and singles!
+ *[Mealeauxdy](https://github.com/troymathis/meleauxdy), a music search engine that displays info on any artist along with detailed information on albums, extended playlists and singles!*
+  
+  *[Fantasy Silk](https://github.com/troymathis/FantasySilk), a user guided hub for everything fantasy football. It allows for the creation of players/teams and also provides information and statistics on said platforms.*
   
   ### 
 </div>
