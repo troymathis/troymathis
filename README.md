@@ -8,9 +8,9 @@
   
   ![Troy's GitHub stats](https://github-readme-stats.vercel.app/api?username=troymathis)
   
-  ### Work in Progress:
+  ### Completed Projects:
   ---
-  *Mealeauxdy, a music search engine that displays info on any artist that also comes along with a game that tests your knowledge*
+  *Mealeauxdy![https://github.com/troymathis/meleauxdy], a music search engine that displays info on any artist along with detailed information on albums, extended playlists and singles!
   
   ### 
 </div>
