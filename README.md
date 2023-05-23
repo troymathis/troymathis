@@ -9,7 +9,7 @@
   
   ### Completed Projects:
   ---
-    *[ATMOS](https://github.com/johndwatt/ATMOS), General Assembly Summer Hackathon 2022, 3 days, collaborative effort with engineering and design teams. Air quality index tracker for most cities in the United States.*
+  *[ATMOS](https://github.com/johndwatt/ATMOS), General Assembly Summer Hackathon 2022, 3 days, collaborative effort with engineering and design teams. Air quality index tracker for most cities in the United States.*
   
  *[Mealeauxdy](https://github.com/troymathis/meleauxdy), a music search engine that displays info on any artist along with detailed information on albums, extended playlists and singles!*
   
@@ -18,7 +18,7 @@
   *[General Store](https://github.com/troymathis/generalstore-frontend), Front-End Lead for a pseudo-commerce website that helps customers find items they didn't even know they wanted or needed. With Firebase logins and website account creation (admin capabilities to perform CRUD on products).*
   
   *[Communal Webrooom](https://github.com/troymathis/comm-wr), a social media web app that brings online users together through shared interests, allowing them to find connections outside the platform.*
-  
+    
   ### 
 </div>
 <!--
