@@ -9,6 +9,8 @@
   
   ### Completed Projects:
   ---
+    *[ATMOS](https://github.com/johndwatt/ATMOS), General Assembly Summer Hackathon 2022, 3 days, collaborative effort with engineering and design teams. Air quality index tracker for most cities in the United States.*
+  
  *[Mealeauxdy](https://github.com/troymathis/meleauxdy), a music search engine that displays info on any artist along with detailed information on albums, extended playlists and singles!*
   
   *[Fantasy Silk](https://github.com/troymathis/FantasySilk), a user guided hub for everything fantasy football. It allows for the creation of players/teams and also provides information and statistics on said platforms.*
@@ -17,7 +19,6 @@
   
   *[Communal Webrooom](https://github.com/troymathis/comm-wr), a social media web app that brings online users together through shared interests, allowing them to find connections outside the platform.*
   
-  *[ATMOS](https://github.com/johndwatt/ATMOS), General Assembly Summer Hackathon 2022, 3 days, collaborative effort with engineering and design teams. Air quality index tracker for most cities in the United States.*
   ### 
 </div>
 <!--
