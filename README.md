@@ -24,7 +24,7 @@
 <br />
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troymathis&layout=compact&hide=python,html,roff)](https://github.com/troymathis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troymathis&layout=compact&hide=html,roff&exclude_repo=comm-wr)](https://github.com/troymathis/github-readme-stats)
 
 ### I want to learn...
 
