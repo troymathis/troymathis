@@ -4,7 +4,7 @@
 ---
 </div>
 
-### My name is Troy Mathis and I am a Web Developer/Software Engineer &nbsp;💻 &nbsp;with a love for everything coding! I enjoy collaboration and spending time with friends/family on the weekends. With teamwork and a little time, anything is possible! If anything on my page interests you or you need to reach me for any reason, feel free to contact me 😁: 
+### My name is Troy Mathis and I am a Web Developer/Software Engineer &nbsp;💻 &nbsp;with a love for everything coding! Currently, I'm volunteering with Hack for LA's [Expunge Assist](https://expungeassist.org/) team! I enjoy collaboration and spending time with friends/family on the weekends. With teamwork and a little time, anything is possible! If anything on my page interests you or you need to reach me for any reason, feel free to contact me 😁: 
 
 <br />
 
@@ -37,6 +37,8 @@
   
   ### Working on... &nbsp;🚧
   ---
+
+  *[MacroSaver](https://github.com/troymathis/macro-saver) , An app that gives users the ability to track nutrients/macros for any given meal of the day!*
 
   *[Daily](https://github.com/TheForeverOptimist/thera-ai) , General Assembly Summer Hackathon 2023, 5 day collaboration with a focus on the use of AI using ChatGPT/OpenAI's API. A reflection journal that tracks entries on each individual a user inputs while using AI to generate a summary along with weekly moods.*
   
